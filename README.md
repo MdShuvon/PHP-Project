@@ -63,9 +63,8 @@ This is a simple Q&A (Question & Answer) website. Any user can:
 ├── 📂 public/       → CSS styles
 └── 📄 index.php     → Homepage
 ```
-This project was built by following the tutorial from:
-**anil sidhu**
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anaborkar)
+This project was built by following the youtube tutorial from:
+**Code step by step** 
 
 ---
 
@@ -74,4 +73,5 @@ This project was built by following the tutorial from:
 ### Made with ❤️ for learning PHP & MySQL
 
 </div>
+
 
