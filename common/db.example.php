@@ -1,7 +1,8 @@
 <?php
+// Copy this file to db.php and fill in your database credentials
 $host = "localhost";
-$username = "root";
-$password = "root123";
+$username = "your_username";
+$password = "your_password";
 $database = "discuss";
 
 $conn = new mysqli($host, $username, $password, $database);

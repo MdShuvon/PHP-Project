@@ -1,0 +1,12 @@
+# Database config (contains password)
+common/db.php
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
