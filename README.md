@@ -64,9 +64,7 @@ This is a simple Q&A (Question & Answer) website. Any user can:
 └── 📄 index.php     → Homepage
 ```
 This project was built by following the tutorial from:
-
-**[anil sidhu](https://github.com/aaborkar)**
-
+**anil sidhu**
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anaborkar)
 
 ---
@@ -76,3 +74,4 @@ This project was built by following the tutorial from:
 ### Made with ❤️ for learning PHP & MySQL
 
 </div>
+
