@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start PHP Server",
+			"type": "shell",
+			"command": "$env:Path = [System.Environment]::GetEnvironmentVariable('Path','Machine') + ';' + [System.Environment]::GetEnvironmentVariable('Path','User'); php -S localhost:8000",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

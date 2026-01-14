@@ -1,0 +1,28 @@
+a{
+    color: skyblue !important;
+}
+.hading{
+    text-align: center;
+}
+.margin-bottom-15{
+    margin-bottom: 15px;
+}
+.question-list{
+    border: 2px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+}
+.question-list h5{
+    margin: 0;
+    padding: 0;
+}
+.question-list a, .question-title{
+    text-decoration: none;
+    font-size: 18px;
+    color : #1c7194 !important;
+
+}
+.my-question{
+    display: flex;
+    justify-content: space-between;
+}
